@@ -1,0 +1,9 @@
+package fbproj;
+
+import org.testng.annotations.Test;
+
+public class NewTestccc {
+  @Test
+  public void f() {
+  }
+}
